@@ -18,7 +18,7 @@
 - [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/index.html)：安卓图标生成器，根据应用内用途可生成多种dpi图标
 
 ### EDITOR
-- [改图宝](http://www.gaitubao.com/)：修改尺寸，支持像素与百分比类型
+- [改图吧](http://www.gaituba.com/)：修改尺寸，支持像素与百分比两种调整类型
 - [Roundcorner](http://www.atool.org/roundcorner.php)：对图标进行圆角化处理
 
 ### SCREENSHOT
