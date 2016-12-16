@@ -23,4 +23,4 @@
 - [Roundcorner](http://www.atool.org/roundcorner.php)：对图标进行圆角化处理
 
 ### SCREENSHOT
-- [Google Device Art Generator](https://developer.android.com/distribute/tools/promote/device-art.html)：截图加壳，只支持nexus系列
+- [Google Device Art Generator](https://developer.android.com/distribute/tools/promote/device-art.html)：截图加壳，Nexus、Pixel & Android Wear
