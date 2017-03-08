@@ -23,6 +23,7 @@
 
 ### EDITOR
 - [TinyPNG](https://tinypng.com/)：在保证质量的前提下压缩图片，支持JPEG、PNG
+- [智图](http://zhitu.isux.us/)：图片优化平台，PNG、JPEG、WEBP转换，压缩品质可自选
 - [改图吧](http://www.gaituba.com/)：修改尺寸，支持像素与百分比两种调整类型
 - [Roundcorner](http://www.atool.org/roundcorner.php)：对图标进行圆角化处理
 
