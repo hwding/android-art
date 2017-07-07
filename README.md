@@ -2,15 +2,16 @@
 # android art
 安卓设计相关的在线工具：包括图标制作、配色方案、尺寸修改、截图加壳等，持续更新中……
 
+**注意：部分网页需要科学访问**
+
 ### ICONFONT
-- [Google Material Icon](https://design.google.com/icons/):谷歌质感设计Icon
+- [Google Material Icon](https://design.google.com/icons/):Google Material Icon
 - [Alibaba iconfont](http://www.iconfont.cn/plus):阿里巴巴矢量图标库
-- [Fontello](http://fontello.com/):Iconfont生成器
-- [Material Design Icons](https://materialdesignicons.com/):多平台质感设计Iconfont
+- [NOVA](http://www.webalys.com/nova/):World's Biggest Material Design Icons Pack
 - [Icons8](https://icons8.com/):Free Flat Icons in any format, size and color
 - [IconJar](https://geticonjar.com/freebies/):Designed by the design community
 - [IconStore](https://iconstore.co/):Free Icons by First-Class Designers
-- [iconmonstr](https://iconmonstr.com/):Discover free simple icons
+- [Iconmonstr](https://iconmonstr.com/):Discover free simple icons
 - [草莓图标](http://chuangzaoshi.com/icon/):为开发者设计的一套免费开源图标库
 - [Noun Project](https://thenounproject.com/):Icons for everything, created by a global community
 
